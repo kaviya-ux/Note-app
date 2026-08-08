@@ -15,7 +15,6 @@ A simple and user-friendly Notes App that allows users to create, view, and mana
 * HTML
 * CSS
 * JavaScript
-```
 ## How to Run
 
 1. Download or clone this repository.
