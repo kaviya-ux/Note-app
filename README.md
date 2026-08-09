@@ -14,6 +14,7 @@ A simple and user-friendly Notes App that allows users to create, view, and mana
 
 * HTML
 * CSS
+* Tail wind
 * JavaScript
 ## How to Run
 
