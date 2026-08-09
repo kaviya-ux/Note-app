@@ -6,10 +6,6 @@ A clean and simple web-based notes application that lets you quickly jot down, t
 
 [https://github.com/kaviya-ux/Note-app](https://github.com/kaviya-ux/Note-app)
 
-## 🔗 Live Demo
-
-> Add your GitHub Pages / deployment link here once live:
-> `https://kaviya-ux.github.io/Note-app/`
 
 ## ✨ Features
 
@@ -29,13 +25,6 @@ A clean and simple web-based notes application that lets you quickly jot down, t
 | Tailwind CSS (CDN) | Styling and layout |
 | JavaScript (Vanilla) | Note creation, deletion, and DOM handling |
 
-## 📸 Preview
-
-Add a screenshot of the app here for a more polished README:
-
-```
-![Notes App Screenshot](./screenshot.png)
-```
 
 ## 🚀 Getting Started
 
