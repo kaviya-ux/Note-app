@@ -1,1 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Notes App</title>
+
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+
+<body class="bg-gray-100 p-10">
+<div class="flex gap-8 justify-center">
+    <!-- Left Side -->
+    <div class="bg-white w-96 p-6 rounded-xl shadow-lg">
+        <h1 class="text-3xl font-bold text-center text-blue-600 mb-6">
+            Notes App
+        </h1>
+        <textarea id="noteInput" placeholder="Write your note here..."
+		class="w-full h-40 border border-gray-300 rounded-lg p-3 resize-none focus:outline-none focus:ring-2 focus:ring-blue-500">
+        </textarea>
+        <div class="flex gap-3 mt-4">
+            <button onclick="addNote()"
+                class="w-full bg-blue-500 hover:bg-blue-600 text-white py-2 rounded-lg">
+                Add Note
+            </button>
+
+            <button onclick="clearNotes()"
+                class="w-full bg-red-500 hover:bg-red-600 text-white py-2 rounded-lg">
+                Clear All
+            </button>
+        </div>
+    </div>
+    <!-- Right Side -->
+    <div class="bg-white w-[450px] p-6 rounded-xl shadow-lg">
+        <h2 class="text-2xl font-bold text-green-600 mb-5">
+            My Notes
+        </h2>
+        <div id="notes" class="space-y-4">
+        </div>
+    </div>
+</div>
+
+
+</body>
+</html>
 
