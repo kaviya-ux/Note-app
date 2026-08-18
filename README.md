@@ -20,6 +20,17 @@ A clean and simple web-based notes application that lets you quickly jot down, t
 | Tailwind CSS (CDN) | Styling and layout |
 | JavaScript (Vanilla) | Note creation, deletion, and DOM handling |
 
+
+##  How It Works
+
+1. Type a note into the text area on the left panel.
+2. Click **Add Note** to save it.
+3. The app automatically captures the current **date and time** and attaches it to the note.
+4. The note appears as a card in the **My Notes** panel on the right, complete with its timestamp.
+5. Click **Delete** on any note card to remove that specific note.
+6. Click **Clear All** to remove every note at once.
+7. If you try to add an empty note, an alert prompts you to enter some text first.
+
 ##  Possible Improvements
 
 - [ ] Persist notes using `localStorage` so they survive a page refresh
