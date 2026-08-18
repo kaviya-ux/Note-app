@@ -4,13 +4,13 @@ A clean and simple web-based notes application that lets you quickly jot down, t
 
 ##  Features
 
-- ✏️ Add notes instantly from a simple text area
-- 📅 Every note is automatically timestamped with the **date and time** it was added
-- 🗑️ Delete individual notes with one click
-- 🧹 Clear all notes at once
-- 🚫 Input validation — prevents adding empty notes
-- 💻 Fully responsive, two-panel UI powered by **Tailwind CSS**
-- ⚡ Zero dependencies — pure HTML, CSS, and JavaScript
+-  Add notes instantly from a simple text area
+-  Every note is automatically timestamped with the **date and time** it was added
+-  Delete individual notes with one click
+-  Clear all notes at once
+-  Input validation — prevents adding empty notes
+-  Fully responsive, two-panel UI powered by **Tailwind CSS**
+-  Zero dependencies — pure HTML, CSS, and JavaScript
 
 ##  Tech Stack
 
@@ -21,30 +21,6 @@ A clean and simple web-based notes application that lets you quickly jot down, t
 | JavaScript (Vanilla) | Note creation, deletion, and DOM handling |
 
 
-##  Getting Started
-
-### Prerequisites
-
-No installation or build tools required — this is a static, single-file web app.
-
-### Run Locally
-
-1. Clone the repository
-   ```bash
-   git clone https://github.com/kaviya-ux/Note-app.git
-   ```
-2. Navigate into the project folder
-   ```bash
-   cd Note-app
-   ```
-3. Open `index.html` in your browser
-   ```bash
-   open index.html   # macOS
-   start index.html  # Windows
-   ```
-
-That's it — no server or dependencies needed.
-
 ##  How It Works
 
 1. Type a note into the text area on the left panel.
@@ -54,13 +30,6 @@ That's it — no server or dependencies needed.
 5. Click **Delete** on any note card to remove that specific note.
 6. Click **Clear All** to remove every note at once.
 7. If you try to add an empty note, an alert prompts you to enter some text first.
-
-##  Project Structure
-
-```
-├── index.html      # Main application file (HTML + CSS + JS)
-└── README.md        # Project documentation
-```
 
 ##  Possible Improvements
 
