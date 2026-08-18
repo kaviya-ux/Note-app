@@ -18,7 +18,7 @@ A clean and simple web-based notes application that lets you quickly jot down, t
 |------------|---------|
 | HTML5 | Page structure |
 | Tailwind CSS (CDN) | Styling and layout |
-| JavaScript (Vanilla) | Note creation, deletion, and DOM handling |
+| JavaScript | Note creation, deletion, and DOM handling |
 
 
 ##  How It Works
