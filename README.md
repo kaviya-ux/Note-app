@@ -36,8 +36,5 @@ A clean and simple web-based notes application that lets you quickly jot down, t
 - [ ] Persist notes using `localStorage` so they survive a page refresh
 - [ ] Add note editing functionality
 - [ ] Add search/filter for notes
-- [ ] Add categories or color tags for notes
-- [ ] Add dark mode toggle
-- [ ] Add drag-and-drop note reordering
 
 ⭐ If you found this project useful, consider giving it a star on GitHub!
