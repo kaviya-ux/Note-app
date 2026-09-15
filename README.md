@@ -38,5 +38,3 @@ A clean and simple web-based notes application that lets you quickly jot down, t
 - [ ] Add search/filter for notes
 
 ⭐ If you found this project useful, consider giving it a star on GitHub!
-
-
