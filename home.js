@@ -75,7 +75,6 @@ function addNote(){
             Delete
         </button>
     `;
-
     document.getElementById("notes").appendChild(note);
 
     input.value = "";
