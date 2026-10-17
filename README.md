@@ -1,6 +1,6 @@
 # 📝 Notes App
 
-A clean and simple web-based notes application that lets you quickly jot down, timestamp, and manage your notes — built with **HTML, Tailwind CSS, and vanilla JavaScript**.
+A clean and simple web-based notes application that lets you quickly jot down, timestamp, and manage your notes — built with **HTML, Tailwind CSS, and JavaScript**.
 
 ##  Features
 
